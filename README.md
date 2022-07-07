@@ -1,5 +1,5 @@
 # Canvas
-## Sample scenes for Nvidia Canvas!
+ Sample scenes for Nvidia Canvas!
 
 ## This is a sample scene that I made:
 ![image](https://user-images.githubusercontent.com/77963043/177745281-1e123968-cb67-4522-976b-a3b4f7c6ad92.png)
