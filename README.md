@@ -10,7 +10,7 @@ There are multiple layers in the sample project. One layer for the sky and the o
 The scene includes:
 >Scattered rocks, trees and other materials
 ---
-####Here is the full list of materials:
+#### Here is the full list of materials:
 ![image](https://user-images.githubusercontent.com/77963043/177747178-63107983-d9f8-411f-a89b-44503aa1f75d.png)
 ---
 #### Here is the full list of styles(variations):
