@@ -15,10 +15,10 @@ The scene includes:
 ---
 #### Here is the full list of styles(variations):
 ![image](https://user-images.githubusercontent.com/77963043/177747296-a5d221ac-1383-49f5-a687-26639d2d9240.png)
----
 Note: I have added one extra type of variation at the end which is a snowy variation.
 Variations do not change the scene itself but changes the lighting around it as well as the abience. Here is another variation of the same scene:
 ---
 To download Nvidia Canvas, go to this webpage:
 https://www.nvidia.com/en-us/studio/canvas/
+---
 ## Note: The software is still in beta so use at your own risk.
