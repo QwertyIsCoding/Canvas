@@ -11,10 +11,10 @@
 >Scattered rocks, trees and other materials
 ---
 ##Here is the full list of materials:
-<center>![image](https://user-images.githubusercontent.com/77963043/177747178-63107983-d9f8-411f-a89b-44503aa1f75d.png)</center>
+![image](https://user-images.githubusercontent.com/77963043/177747178-63107983-d9f8-411f-a89b-44503aa1f75d.png)
 ---
 ##Here is the full list of styles(variations):
-<center>![image](https://user-images.githubusercontent.com/77963043/177747296-a5d221ac-1383-49f5-a687-26639d2d9240.png)</center>
+![image](https://user-images.githubusercontent.com/77963043/177747296-a5d221ac-1383-49f5-a687-26639d2d9240.png)
 ---
 ##Note: I have added one extra type of variation at the end which is a snowy variation.
 ##Variations do not change the scene itself but changes the lighting around it as well as the abience. Here is another variation of the same scene:
