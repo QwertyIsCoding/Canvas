@@ -18,8 +18,10 @@ The scene includes:
 ---
 #### Note: I have added one extra type of variation at the end which is a snowy variation.
 #### Variations do not change the scene itself but changes the lighting around it as well as the abience. Here is another variation of the same scene:
+![image](https://user-images.githubusercontent.com/77963043/202043079-fb706d56-a2e9-404a-a976-ddcd20590335.png)
+
 ---
-#### To download Nvidia Canvas, go to this webpage:
-https://www.nvidia.com/en-us/studio/canvas/
+#### To download Nvidia Canvas, go to <a href: "https://www.nvidia.com/en-us/studio/canvas/">this</a> webpage:
+
 ---
 ## Note: The software is still in beta so use at your own risk. You also NEED a NVIDIA GPU to use the software. 
