@@ -22,4 +22,4 @@ The scene includes:
 #### To download Nvidia Canvas, go to this webpage:
 https://www.nvidia.com/en-us/studio/canvas/
 ---
-## Note: The software is still in beta so use at your own risk.
+## Note: The software is still in beta so use at your own risk. You also NEED a NVIDIA GPU to use the software. 
