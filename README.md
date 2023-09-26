@@ -3,6 +3,7 @@ Sample scenes for Nvidia Canvas!
 
 ## This is a sample scene that I made:
 ![image](https://user-images.githubusercontent.com/77963043/177745281-1e123968-cb67-4522-976b-a3b4f7c6ad92.png)
+
 The "drawing" on the left is the sketch that I drew.
 The render on the right is made by AI with Nvidia Canvas.
 ---
@@ -16,8 +17,8 @@ The scene includes:
 #### Here is the full list of styles(variations):
 ![image](https://user-images.githubusercontent.com/77963043/177747296-a5d221ac-1383-49f5-a687-26639d2d9240.png)
 ---
-#### Note: I have added one extra type of variation at the end which is a snowy variation.
-#### Variations do not change the scene itself but changes the lighting around it as well as the abience. Here is another variation of the same scene:
+Note: I have added one extra type of variation at the end which is a snowy variation.
+Variations do not change the scene itself but changes the lighting around it as well as the abience. Here is another variation of the same scene:
 ![image](https://user-images.githubusercontent.com/77963043/202043079-fb706d56-a2e9-404a-a976-ddcd20590335.png)
 
 ---
