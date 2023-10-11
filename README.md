@@ -1,5 +1,5 @@
 # Canvas
-Sample scenes for Nvidia Canvas!
+Sample scenes for Nvidia Canvas, which is quite an impressive piece of software since it runs locally, and can create realiztic images of your drawings and is extremely useful for brainstorming ideas for your next renders, etc.
 
 ## This is a sample scene that I made:
 ![image](https://user-images.githubusercontent.com/77963043/177745281-1e123968-cb67-4522-976b-a3b4f7c6ad92.png)
@@ -19,10 +19,11 @@ The scene includes:
 ---
 Note: I have added one extra type of variation at the end which is a snowy variation.
 Variations do not change the scene itself but changes the lighting around it as well as the abience. Here is another variation of the same scene:
+
 ![image](https://user-images.githubusercontent.com/77963043/202043079-fb706d56-a2e9-404a-a976-ddcd20590335.png)
 
 ---
 #### To download Nvidia Canvas, go to this webpage: https://www.nvidia.com/en-us/studio/canvas/
 
 ---
-## Note: The software is still in beta so use at your own risk. You also NEED a NVIDIA GPU to use the software. 
+#### Note: The software is still in beta so use at your own risk. You also NEED a NVIDIA GPU to use the application. 
